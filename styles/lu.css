@@ -73,7 +73,7 @@ html, body {
   font-size: 3.2rem;
   color: #0C2C5B;
 }
-#main #container #general-messages, #main #container #personal-messages {
+#main #container #everyone, #main #container #personal {
   display: flex;
   flex-direction: column;
 }
